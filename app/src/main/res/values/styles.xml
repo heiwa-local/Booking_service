@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HiddenTitleTheme" parent="Theme.AppCompat">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/background_dark_gray</item>
+        <item name="searchViewStyle">@style/AppSearchViewStyle</item>
+    </style>
+    <style name="AppSearchViewStyle" parent="Widget.AppCompat.SearchView">
+<!--        <item name="android:textCursorDrawable">@drawable/white_cursor</item>-->
+        <item name="queryBackground">@android:color/transparent</item>
+<!--        <item name="searchIcon">@drawable/icon_toolbar_search</item>-->
+<!--        <item name="closeIcon">@drawable/icon_toolbar_clear</item>-->
+<!--        <item name="queryHint">@string/search_hint</item>-->
+        <item name="android:imeActionId">6</item>
+    </style>
+
+
+
+</resources>

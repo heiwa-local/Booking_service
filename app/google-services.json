@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "326314002966",
+    "firebase_url": "https://booking-fc12b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "booking-fc12b",
+    "storage_bucket": "booking-fc12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326314002966:android:c078d04f57257de68a4337",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326314002966-rcu1fm3mvuf9gjlimv7a0ivqlumku5fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIy-N8kb8PZU3Vr6GJdfo6uvzn-K4NWNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326314002966-rcu1fm3mvuf9gjlimv7a0ivqlumku5fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326314002966:android:4cd74ffe44c805818a4337",
+        "android_client_info": {
+          "package_name": "com.example.booking_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326314002966-rcu1fm3mvuf9gjlimv7a0ivqlumku5fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIy-N8kb8PZU3Vr6GJdfo6uvzn-K4NWNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326314002966-rcu1fm3mvuf9gjlimv7a0ivqlumku5fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

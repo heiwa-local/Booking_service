@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/home_icon"
+        android:title="Главная"/>
+    <item
+        android:id="@+id/ic_my_travels"
+        android:icon="@drawable/bag_icon"
+        android:title="Мои брони" />
+    <item
+        android:id="@+id/ic_favorite"
+        android:icon="@drawable/favorite_icon"
+        android:title="Избранное"/>
+    <item
+        android:id="@+id/ic_account"
+        android:icon="@drawable/account_icon"
+        android:title="Аккаунт"/>
+</menu>
